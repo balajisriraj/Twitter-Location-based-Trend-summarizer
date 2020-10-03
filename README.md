@@ -39,3 +39,6 @@ Refer : [Model Blog] (https://ai.googleblog.com/2020/02/exploring-transfer-learn
 
 [logo]: https://1.bp.blogspot.com/-o4oiOExxq1s/Xk26XPC3haI/AAAAAAAAFU8/NBlvOWB84L0PTYy9TzZBaLf6fwPGJTR0QCLcBGAsYHQ/s1600/image3.gif "T5 - TEXT-to-TEXT"
 
+#### Future Scope:
+<font color = 'green'>
+Able to work with multi language tweets using google translate API, comprensive web app for the ease of intraction, model tuning better for results. 
