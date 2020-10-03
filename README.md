@@ -32,3 +32,10 @@ Put all the individual tweets together as a string chunk
 ### Step 6:
 By leveraging pre- trained model’s ability, generate text summary of the tweets in about 50 to 160 words along with Word cloud graph for better understanding of the context.
 
+For more information on teh NLP model:
+Refer : [Model Blog] (https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html)
+
+![alt text][logo]
+
+[logo]: https://1.bp.blogspot.com/-o4oiOExxq1s/Xk26XPC3haI/AAAAAAAAFU8/NBlvOWB84L0PTYy9TzZBaLf6fwPGJTR0QCLcBGAsYHQ/s1600/image3.gif "T5 - TEXT-to-TEXT"
+
