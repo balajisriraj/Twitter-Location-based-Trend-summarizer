@@ -12,7 +12,7 @@ This project is to identify top trends in twitter and generates the summary of t
 - Twitter credentials like API Key, Access Tokens,etc
   Steps for getting Twitetr credentials:
     - Create a twitter account incase if you do not have already
-    - Go to https://apps.twitter.com/
+    - Go to [https://apps.twitter.com/](https://apps.twitter.com/) 
     - Click 'Create an app', this will help to create a developer account
     - Once you fill all the mandatory details you will be provided with required keys, please save those keys locally in a notepad for later use 
     
