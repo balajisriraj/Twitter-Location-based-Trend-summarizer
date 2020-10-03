@@ -7,7 +7,7 @@ This project is to identify top trends in twitter and generates the summary of t
   To install packages use 
   ```
       !pip install <package name>
-```
+  ```
 - Pre-trainined transformer model to be downloaded
 - Twitter credentials like API Key, Access Tokens,etc
   Steps for getting Twitetr credentials:
