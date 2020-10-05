@@ -10,7 +10,7 @@ This project is to identify top trends in twitter and generates the summary of t
   ```
 - Pre-trainined transformer model to be downloaded
 - Twitter credentials like API Key, Access Tokens,etc
-  Steps for getting Twitetr credentials:
+  Steps for getting Twitter credentials:
     - Create a twitter account incase if you do not have already
     - Go to [https://apps.twitter.com/](https://apps.twitter.com/) 
     - Click 'Create an app', this will help to create a developer account
