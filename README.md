@@ -1,3 +1,6 @@
+
+
+
 # Twitter-Summary-mini-Project
 
 This project is to identify top trends in twitter and generates the summary of those trending hashtags in about 50 to 160 words using Text-to-Text transformer model.
@@ -45,3 +48,6 @@ Refer : [Model Blog] (https://ai.googleblog.com/2020/02/exploring-transfer-learn
               Able to work with multi language tweets using google translate API, comprensive web app for the ease of intraction, 
               model tuning better for results. 
 </font>
+  
+  
+<div class="LI-profile-badge" data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="balajisrirajdu"><a class="LI-simple-link" href='https://sg.linkedin.com/in/balajisrirajdu?trk=profile-badge'>Balaji Sri R.</a></div>
