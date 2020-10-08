@@ -50,3 +50,4 @@ Refer : [Model Blog] (https://ai.googleblog.com/2020/02/exploring-transfer-learn
 </font>
   
  
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="balajisrirajdu"><a class="LI-simple-link" href='https://sg.linkedin.com/in/balajisrirajdu?trk=profile-badge'>Balaji Sri R.</a></div>
