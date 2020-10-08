@@ -49,5 +49,4 @@ Refer : [Model Blog] (https://ai.googleblog.com/2020/02/exploring-transfer-learn
               model tuning better for results. 
 </font>
   
-  
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+ 
